@@ -16,12 +16,12 @@ A simple and elegant To-Do list app built with **React** and **Vite**. Add, dele
 [screenshot png](https://github.com/user-attachments/assets/471fb6db-f81a-4502-8189-86e51b806e00)
 
 
- 🚀 Features
+  Features
 
-- 📥 Add new tasks
+- Add new tasks
 - ✅ Mark tasks as done
-- ❌ Delete tasks
-- 💅 Responsive and clean UI
+-  Delete tasks
+-  Responsive and clean UI
 
 
 
@@ -34,7 +34,7 @@ GitHub Pages– Deployment
 
 
 
-## 📁 Project Structure
+ 📁 Project Structure
 
 react-todo-app/
 ├── public/
